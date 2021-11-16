@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dooneyy
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript and react
 - 📫 You can reach me by mail @ #dunniraufah@gmail.com# 
 
 <!---
