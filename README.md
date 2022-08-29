@@ -48,13 +48,14 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dooneyy&theme=tokyonight&hide=issues,stars,contribs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dooneyy&count_private=true&show_icons=true&include_all_commits=true)
 <br/>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooneyy&hide=TeX&layout=compact)
+<div align="center"><img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=dooneyy&hide=TeX&layout=compact
+&theme=tokyonight&hide=issues,stars,contribs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 ### What I'm Listening To  
 <div align="center"><img src="[(https://spotify-github-profile.vercel.app/api/view?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile" alt='spotify-github-profile /></div>  
