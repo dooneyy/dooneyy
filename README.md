@@ -51,7 +51,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dooneyy&theme=tokyonight&hide=issues,stars,contribs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<br/> 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
 <br/>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooneyy&hide=TeX&layout=compact)
