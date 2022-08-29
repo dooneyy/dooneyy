@@ -50,14 +50,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dooneyy&theme=tokyonight&hide=issues,contribs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dooneyy&theme=tokyonight&hide=issues,stars,contribs&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
 
 ### What I'm Listening To  
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=3174cfnyk7ekl53bmi5db3dwpceq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)]]" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=3174cfnyk7ekl53bmi5db3dwpceq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)" /></div>  
 
 <br/>  
 
