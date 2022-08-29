@@ -57,7 +57,7 @@
 
 
 ### What I'm Listening To  
-<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)" /></div>  
+<div align="center"><img src="[(https://spotify-github-profile.vercel.app/api/view?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile" alt='spotify-github-profile /></div>  
 
 <br/>  
 
