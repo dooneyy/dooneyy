@@ -3,12 +3,6 @@
 </div>  
   
 
-### <div align="center">Hi! I'm Oladunni - A full-time frontend developer 👨‍💻</div>  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -72,7 +66,4 @@
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
