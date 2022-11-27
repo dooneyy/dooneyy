@@ -37,10 +37,7 @@
 </a>
 <a href="https://twitter.com/WeirdoneDooney" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/Oladunni Odetunde" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
@@ -51,11 +48,7 @@
 
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dooneyy&hide=TeX&layout=compact" align="center" /></div>
-<br/>  
-
-
-### What I'm Listening To  
-<div align="center"><img src="[(https://spotify-github-profile.vercel.app/api/view?uid=3174cfnyk7ekl53bmi5db3dwpceq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile" alt='spotify-github-profile /></div>  
+<br/>   
 
 <br/>  
 
